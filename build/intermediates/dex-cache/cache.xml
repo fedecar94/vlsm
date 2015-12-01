@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\tekor\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="A:\tekor\Desktop\git\VLSM\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-ae6e93df8a1cae3f1c6148294b82354aacaa550f.jar" />
+    </item>
+    <item
+        jar="A:\tekor\Desktop\git\VLSM\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="A:\tekor\Desktop\git\VLSM\app\build\intermediates\pre-dexed\debug\classes-d9f0589bd9810a396f810e1b05557e3475701921.jar" />
+    </item>
+    <item
+        jar="A:\tekor\Desktop\git\VLSM\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="A:\tekor\Desktop\git\VLSM\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-ed4c5fa9af6feea643c83d0b4be7bba5a0f38cae.jar" />
+    </item>
+    <item
+        jar="A:\tekor\Desktop\git\VLSM\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="A:\tekor\Desktop\git\VLSM\app\build\intermediates\pre-dexed\debug\classes-63f425fe3b3f3b68167f66e166f5dde63d7744c3.jar" />
+    </item>
+
+</items>
